@@ -52,6 +52,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * markdown
 * Bootstrap
 
-## License
-* MIT License:  
+## License 
 * Copyright 2020 @ Daniel Darnell
