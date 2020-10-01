@@ -1,6 +1,18 @@
 # QuotesX
 
+## AUTHOR
+Daniel Darnell Wanina
+
+## DESCRIPTION
+This is an Angular application that displays quotes and enables users to share there opinions about the quotes in the app by either liking or disliking, they can also add their own quotes
+
+## LIVE PAGE
+https://github.com/Daniel-darnell/QuoteFun
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
+
+## CONTACT ME
+For opinions you can reach me via email at darnelldanny1997@gmail.com
 
 ## Development server
 
